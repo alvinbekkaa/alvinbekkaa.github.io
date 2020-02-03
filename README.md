@@ -1,4 +1,1 @@
-# alvinbekkaa.github.io
-
-This is a website
-mmm
+# beka.my.id
