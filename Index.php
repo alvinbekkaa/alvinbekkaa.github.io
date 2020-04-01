@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "2; url = https://www.tutorialspoint.com" />
-   </head>
-   <body>
-      <p>Hello HTML5!</p>
-   </body>
-</html>
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>Redirect url in Javascript</title> 
+</head> 
+<body> 
+<script> 
+    var url= "https://www.geeksforgeeks.org"; 
+    window.location = url; 
+</script> 
+</body> 
+</html> 
