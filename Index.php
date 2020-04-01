@@ -1,6 +1,6 @@
 <html>
 <head>
-  <meta http-equiv = "refresh" content= "seconds";
+  <meta http-equiv = "refresh" content= "1";
         url = "http://beka.my.id/" />
 <title>Welcome</title>
 </head>
