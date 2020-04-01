@@ -6,6 +6,7 @@
 
 <?php
 header("Location: http://beka.my.id/");
+  die();
 ?>
 
 
