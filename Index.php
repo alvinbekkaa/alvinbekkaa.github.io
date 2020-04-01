@@ -1,16 +1,10 @@
+<!DOCTYPE html>
 <html>
-<head>
-  <meta http-equiv = "refresh" content= "1";
-        url = "http://beka.my.id/" />
-<title>Welcome</title>
-</head>
-<body>
-
-<?php
-header("Location: http://beka.my.id/");
-  die();
-?>
-
-
-</body>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://www.tutorialspoint.com" />
+   </head>
+   <body>
+      <p>Hello HTML5!</p>
+   </body>
 </html>
